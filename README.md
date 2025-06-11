@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a btech 4th year student in SRM IST chennai <br> Web Developer ,Software developer and aspiring game developer<br>English,Hindi,German<br>
+I am B.Tech 4th year student  SRM IST chennai <br> Web Developer ,Software developer and aspiring game developer<br>English,Hindi,German<br>
 
 
 ## 🌐 Socials:
